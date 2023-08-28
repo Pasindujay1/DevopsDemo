@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome</h1>
         <p>
-          I'm Pasindu and this is my DevOps demo.See now!
+          I'm Pasindu and this is my DevOps demo.
         </p>
         <a
           className="App-link"
